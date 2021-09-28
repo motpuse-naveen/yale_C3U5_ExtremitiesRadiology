@@ -1,8 +1,8 @@
 [
-
+	
 	{
 		"header": {
-			"titleText": "Radiology Chest"
+			"titleText": "Extremities Radiology"
 		},
 		"pageSection": {
 			"titleInstruction": "Drag and drop the labels.",
@@ -29,30 +29,1191 @@
 			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
 		},
 		"LeftPos": [
-			384,
-			642
+			390,
+			458,
+			475,
+			522,
+			544,
+			555
 		],
 		"TopPos": [
-			258,
-			342
+			82,
+			137,
+			305,
+			65,
+			82,
+			142
 		],
 		"OptionArray": [
-			"Left hemidiaphragm",
-			"Right hemidiaphragm"
+			"Acromion",
+			"Humeral head",
+			"Clavicle",
+			"Acromioclavicular joint",
+			"Corocoid process",
+			"Scapular body"
 		],
 		"DropPosition": [
+			"Left",
+			"Left",
+			"Left",
+			"Top",
+			"Right",
+			"Right"
+		],
+		"CorrectOptionArray": [
+			"Clavicle",
+			"Corocoid process",
+			"Scapular body",
+			"Acromioclavicular joint",
+			"Acromion",
+			"Humeral head"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+
+	{
+		"header": {
+			"titleText": "Extremities Radiology"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_02.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			442,
+			497,
+			559,
+			521,
+			585
+		],
+		"TopPos": [
+			150,
+			205,
+			190,
+			104,
+			145
+		],
+		"OptionArray": [
+			"Lesser tubercle",
+			"Acromion",
+			"Greater tubercle",
+			"Coracoid",  
+			"Glenoid"	
+		],
+		"DropPosition": [
+			"Left",
+			"Left",
+			"Bottom",
+			"Top",
+			"Right"
+		],
+		"CorrectOptionArray": [
+			"Coracoid",  
+			"Glenoid",
+			"Lesser tubercle",  
+			"Acromion",
+			"Greater tubercle"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Extremities Radiology"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_03.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			430,
+			450,
+			453,
+			629,
+			555,
+			558
+		],
+		"TopPos": [
+			169,
+			242,
+			315,
+			145,
+			242,
+			307
+		],
+		"OptionArray": [
+			"Radius",  
+			"Ulna",
+			"Medial epicondyle",
+			"Lateral epicondyle",
+			"Capitellum",
+			"Trochlea"
+		],
+		"DropPosition": [
+			"Left",
+			"Left",
+			"Left",
+			"Right",
+			"Right",
+			"Right"
+		],
+		"CorrectOptionArray": [
+			"Lateral epicondyle",  
+			"Capitellum",
+			"Radius",
+			"Medial epicondyle",
+			"Trochlea",
+			"Ulna"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+
+	{
+		"header": {
+			"titleText": "Extremities Radiology"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_04.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			397,
+			375,
+			290,
+			444,
+			503
+		],
+		"TopPos": [
+			91,
+			300,
+			345,
+			388,
+			331		
+		],
+		"OptionArray": [
+			"Ulna",
+			"Olecranon process",
+			"Coronoid process",
+			"Radius",
+			"Humerus"
+		],
+		"DropPosition": [
+			"Right",
+			"Top",
+			"Bottom",
+			"Top",
+			"Right"
+		],
+		"CorrectOptionArray": [
+			"Humerus",  
+			"Coronoid process",
+			"Olecranon process",
+			"Ulna",
+			"Radius"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Extremities Radiology"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_05.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			410,
+			410,
+			340,
+			462,
+			621,
+			577
+		],
+		"TopPos": [
+			227,
+			282,
+			416,
+			317,
+			270,
+			399
+		],
+		"OptionArray": [
+			"Ulna",
+			"Scaphoid",
+			"Triquetrum",
+			"Lunate",
+			"Pisiform",
+			"Radius"
+		],
+		"DropPosition": [
+			"Left",
+			"Left",
+			"Left",
+			"Bottom",
+			"Right",
+			"Right"
+		],
+		"CorrectOptionArray": [
+			"Pisiform",  
+			"Triquetrum",
+			"Ulna",
+			"Lunate",
+			"Scaphoid",
+			"Radius"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Extremities Radiology"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_06.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			409,
+			522,
+			609,
+			705
+		],
+		"TopPos": [
+			130,
+			222,
+			167,
+			157
+		],
+		"OptionArray": [
+			"Capitate",
+			"Hamate",  
+			"Trapezium",
+			"Trapezoid"
+		],
+		"DropPosition": [
+			"Left",
+			"Bottom",
+			"Top",
+			"Right"
+		],
+		"CorrectOptionArray": [
+			"Hamate",  
+			"Capitate",
+			"Trapezoid",
+			"Trapezium"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+
+	{
+		"header": {
+			"titleText": "Extremities Radiology"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_07.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			397,
+			455,
+			609,
+			595,
+			582,
+			550
+		],
+		"TopPos": [
+			274,
+			389,
+			20,
+			86,
+			152,
+			293
+		],
+		"OptionArray": [
+			"Distal phalanx",
+			"Metacarpophalangeal",  
+			"Carpometacarpal",
+			"Middle phalanx",
+			"Metacarpal",
+			"Proximal phalanx"
+		],
+		"DropPosition": [
+			"Left",
+			"Left",
+			"Right",
+			"Right",
+			"Right",
+			"Right"
+		],
+		"CorrectOptionArray": [
+			"Metacarpophalangeal",  
+			"Carpometacarpal",
+			"Distal phalanx",
+			"Middle phalanx",
+			"Proximal phalanx",
+			"Metacarpal"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+
+	{
+		"header": {
+			"titleText": "Extremities Radiology"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_08.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			335,
+			278,
+			512,
+			491,
+			421,
+			668
+		],
+		"TopPos": [
+			49,
+			187,
+			155,
+			317,
+			374,
+			139
+		],
+		"OptionArray": [
+			"Sacrum",
+			"Ischium",
+			"Ilium",
+			"Pubis",
+			"Iliac crest",  
+			"Ant. superior iliac spine"
+		],
+		"DropPosition": [
+			"Left",
+			"Top",
+			"Top",
+			"Top",
+			"Bottom",
+			"Top"
+		],
+		"CorrectOptionArray": [
+			"Iliac crest",  
+			"Ant. superior iliac spine",
+			"Sacrum",
+			"Pubis",
+			"Ischium",
+			"Ilium"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+
+	{
+		"header": {
+			"titleText": "Extremities Radiology"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_09.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			398,
+			434,
+			467,
+			442,
+			579,
+			512
+		],
+		"TopPos": [
+			67,
+			101,
+			180,
+			299,
+			178,
+			406
+		],
+		"OptionArray": [
+			"Greater trochanter",
+			"Femoral shaft",
+			"Femoral neck",
+			"Lesser trochanter",
+			"Femoral head",
+			"Acetabulum"
+		],
+		"DropPosition": [
+			"Left",
+			"Right",
+			"Left",
+			"Left",
+			"Right",
+			"Right"
+		],
+		"CorrectOptionArray": [
+			"Acetabulum",  
+			"Femoral head",
+			"Femoral neck",
+			"Lesser trochanter",
+			"Greater trochanter",
+			"Femoral shaft"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+
+	{
+		"header": {
+			"titleText": "Extremities Radiology"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_10.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			445,
+			380,
+			425,
+			509,
+			535,
+			545
+		],
+		"TopPos": [
+			90,
+			195,
+			335,
+			167,
+			275,
+			375
+		],
+		"OptionArray": [ 
+			"Medial condyle",
+			"Fibula",
+			"Lateral condyle",
+			"Tibia",
+			"Tibial plateau",
+			"Patella"
+		],
+		"DropPosition": [
+			"Top",
+			"Left",
+			"Left",
+			"Right",
+			"Right",
+			"Right"
+		],
+		"CorrectOptionArray": [
+			"Patella",  
+			"Medial condyle",
+			"Tibia",
+			"Lateral condyle",
+			"Tibial plateau",
+			"Fibula"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Extremities Radiology"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_11.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			442,
+			507,
+			582,
+			509
+		],
+		"TopPos": [
+			409,
+			115,
+			198,
+			386
+		],
+		"OptionArray": [ 
+			"Tibia",
+			"Fibula",  
+			"Patella",
+			"Suprapatellar bursa"	
+		],
+		"DropPosition": [
+			"Left",
+			"Right",
+			"Right",
+			"Right"
+		],
+		"CorrectOptionArray": [
+			"Fibula",  
+			"Suprapatellar bursa",
+			"Patella",
+			"Tibia"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Extremities Radiology"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_12.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			537,
+			547,
+			637,
+			669
+		],
+		"TopPos": [
+			278,
+			415,
+			219,
+			304
+		],
+		"OptionArray": [ 
+			"Patella",
+			"Femur",
+			"Lateral patellar facet",
+			"Medial patellar facet" 
+		],
+		"DropPosition": [
+			"Left",
+			"Left",
+			"Top",
+			"Bottom"
+		],
+		"CorrectOptionArray": [
+			"Medial patellar facet",  
+			"Femur",
+			"Patella",  
+			"Lateral patellar facet"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Extremities Radiology"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_13.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			315,
+			330,
+			405,
+			407,
+			490
+		],
+		"TopPos": [
+			41,
+			280,
+			270,
+			32,
+			218
+		],
+		"OptionArray": [ 
+			"Medial malleolus",
+			"Talus",
+			"Tibia",
+			"Fibula",  
+			"Lateral malleolus"
+		],
+		"DropPosition": [
+			"Left",
+			"Left",
+			"Bottom",
+			"Right",
+			"Right"
+		],
+		"CorrectOptionArray": [
+			"Fibula",  
+			"Lateral malleolus",
+			"Talus",
+			"Tibia",
+			"Medial malleolus"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Extremities Radiology"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_14.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			355,
+			328,
+			194,
+			515,
+			517,
+			595
+		],
+		"TopPos": [
+			195,
+			250,
+			350,
+			36,
+			139,
+			311
+		],
+		"OptionArray": [ 
+			"Metatarsal",
+			"Navicular",  
+			"Talus",
+			"Tibia",
+			"Calcaneus",
+			"Cuneiforms"
+		],
+		"DropPosition": [
+			"Top",
+			"Left",
+			"Right",
+			"Right",
+			"Right",
+			"Bottom"
+		],
+		"CorrectOptionArray": [
+			"Navicular",  
+			"Cuneiforms",
+			"Metatarsal",
+			"Tibia",
+			"Talus",
+			"Calcaneus"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+	
+	{
+		"header": {
+			"titleText": "Extremities Radiology"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_15.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			392,
+			382,
+			421,
+			471
+		],
+		"TopPos": [
+			87,
+			168,
+			291,
+			71
+		],
+		"OptionArray": [ 
+			"Middle phalanx",
+			"Proximal phalanx",
+			"Distal phalanx", 
+			"Metatarsal"
+		],
+		"DropPosition": [
+			"Left",
+			"Left",
 			"Left",
 			"Right"
 		],
 		"CorrectOptionArray": [
-			"Right hemidiaphragm",
-			"Left hemidiaphragm"
+			"Distal phalanx",  
+			"Proximal phalanx",
+			"Metatarsal",
+			"Middle phalanx"
 		],
 		"DropListArray": [
 			"1",
-			"2"
+			"2",
+			"3",
+			"4"
 		],
 		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
 			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
 			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
 		]
